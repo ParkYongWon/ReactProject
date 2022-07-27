@@ -1,0 +1,26 @@
+.form {
+    
+    background-color : #eee;
+    
+}
+
+.inputbox {
+    background-color : rgb(248, 226, 229);
+    height : 20px;
+    border-radius: 6px;
+    margin : 20px;
+}
+
+
+.labels {
+    margin-left: 20px;
+}
+
+.addbox {
+  border: 1px solid rgb(209, 126, 209);
+  background-color: bisque;
+  width: 100px;
+  height: 40px;
+  border-radius: 8px;
+  cursor: pointer;
+}

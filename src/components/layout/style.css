@@ -1,0 +1,8 @@
+.layout {
+    background-color: rgb(159, 159, 252);
+    max-width: 1200px;
+    min-width: 800px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 12px;
+}
